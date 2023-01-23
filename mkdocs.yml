@@ -1,4 +1,5 @@
 site_name: "test mkdocs site"
+site_url: https://tom-howard.github.io/test/
 theme:
   name: material
   custom_dir: overrides
